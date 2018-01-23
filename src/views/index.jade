@@ -1,0 +1,12 @@
+// One way to defined variable
+// Best way to send through app from where we render the page
+//- var list = ['1', '2', '3']
+html
+	head
+		title MyApp
+	body(class="test-class")
+		h1(id="myId") My App
+		h3 Sub heading
+		ul
+			each val in list
+				li= val

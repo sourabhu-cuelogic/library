@@ -1,0 +1,22 @@
+{
+  "name": "express-apps",
+  "description": "Library Management App",
+  "main": "app.js",
+  "authors": [
+    "Sourabh"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "font-awesome": "^4.7.0",
+	"jquery": "*"
+  }
+}
